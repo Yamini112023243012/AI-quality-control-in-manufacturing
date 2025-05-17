@@ -1,1 +1,0 @@
-# AI-quality control in manufacturing
